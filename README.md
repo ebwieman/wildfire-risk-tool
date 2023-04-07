@@ -41,6 +41,12 @@ Wildfires can have tremendous impacts on the local population and environment. O
 
 Nevertheless, groups of people could potentially be excluded from benefits from our project. Since the datasets we use in this project are taken from regions of Algeria and Portugal,  our model could potentially capture regional trends that won’t generalize well when extended to other regions of the world. Thus, other areas that differ in climate and geography might be excluded from the project. In addition, environmental data is historically collected in more affluent areas. Thus, our datasets might fall short in capturing more remote places. 
 
+Overall, we believe our project will make the world a better place. 
+1. Predicting the likelihood of wildfire occurring in a given region will enable better fire management, mitigation, and evacuation decisions.
+2. Identifying areas with high wildfire risks allows for optimal allocation of resources and reduces the economic impacts of wildfires.
+3. Wildfire predictions can help protect the land, wildlife, and nearby communities
+
+
 ## Tentative Timeline
 In three weeks, we will have reviewed prior machine learning studies that focus on predicting natural hazards, and have researched potential models, selecting an appropriate one to apply to our research. We will have cleaned and explored our datasets, and thought about the implications of using machine learning to predict natural hazards. We will also have drafted the paper on machine learning in ecological forecasting. In the last couple of weeks, we will implement our models, finalize our paper, and create our map predicting fires using meteorological data. 
 
