@@ -8,6 +8,10 @@ Climate change has increased the likelihood of a variety of extreme weather even
 ## Planned Deliverables
 
 ## Resources Required
+Thankfully, much of what we need, we already have. We have a dataset for forest fires in Algeria (https://www.kaggle.com/datasets/nitinchoudhary012/algerian-forest-fires-dataset) which we will use to train a model classifying whether or not fires occur, and we have a dataset for forest fires in Portugal (https://archive.ics.uci.edu/ml/datasets/forest+fires) for which we will train a model predicting total burned area. Other than this, because these datasets are not very large the computing power available on our personal computers should be sufficient for training, testing, and experimentation.
+
+We also will need to explore background literature and academic studies relating to the use of Machine Learning in exploring/predicting natural hazards, especially wildfires. One aim of our project is to explore the applications of ML to ecological/environmental conservation and protection, so finding academic resources relating to this topic is important.
+
 
 ## What You Will Learn
 
