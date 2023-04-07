@@ -34,4 +34,6 @@ We need to be wary of overfitting our models; the size of our datasets are a big
 
 ## Tentative Timeline
 
+In three weeks, we will have reviewed prior machine learning studies that focus on predicting natural hazards, and have researched potential models, selecting an appropriate one to apply to our research. We will have cleaned and explored our datasets, and thought about the implications of using machine learning to predict natural hazards. We will also have drafted the paper on machine learning in ecological forecasting. In the last couple of weeks, we will implement our models, finalize our paper, and create our map predicting fires using meteorological data. 
+
 ## 
