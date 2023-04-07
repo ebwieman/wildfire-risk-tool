@@ -39,8 +39,9 @@ We need to be wary of overfitting our models; the size of our datasets are a big
 ## Ethics Statement
 Wildfires can have tremendous impacts on the local population and environment. Over the last few decades, we have seen places facing longer fire seasons and more severe fires. Thus, being able to predict wildfire risk and size of areas can enable better fire management, mitigation, and evacuation decisions. These predictions locating areas with high wildfire risks are essential to wildfire emergency response, allowing optimal allocation of resources and a quick plan of action. Moreover, wildland firefighters can develop more precise targeted fire-prevention measures that can save hundreds of lives and minimize damages to the ecosystems. Evidently, this can also reduce the economic impacts of wildfires. By creating  more precise fire-prevention measures, wildfire management can reduce the cost of resources and financial losses caused by fire damage. 
 
-## Tentative Timeline
+Nevertheless, groups of people could potentially be excluded from benefits from our project. Since the datasets we use in this project are taken from regions of Algeria and Portugal,  our model could potentially capture regional trends that won’t generalize well when extended to other regions of the world. Thus, other areas that differ in climate and geography might be excluded from the project. In addition, environmental data is historically collected in more affluent areas. Thus, our datasets might fall short in capturing more remote places. 
 
+## Tentative Timeline
 In three weeks, we will have reviewed prior machine learning studies that focus on predicting natural hazards, and have researched potential models, selecting an appropriate one to apply to our research. We will have cleaned and explored our datasets, and thought about the implications of using machine learning to predict natural hazards. We will also have drafted the paper on machine learning in ecological forecasting. In the last couple of weeks, we will implement our models, finalize our paper, and create our map predicting fires using meteorological data. 
 
 ## 
