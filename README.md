@@ -28,10 +28,14 @@ We also will need to explore background literature and academic studies relating
 
 ## What You Will Learn
 
+
+Madeleine: I am excited to apply machine learning to spatial analysis, which this project provides a great opportunity for. I am most looking forward to exploring meteorological data and creating a risk map of forest fires in the U.S. This project also ties in to my overall goals for this course. Throughout the semester, I have been the most interested in focusing on implementation and social responsibility. I think exploring forest fires and their spatial implications, especially applying our models to different areas to predict fire risk, will help me practice implementation. Considering the ethics of machine learning models for predicting environmental risk will help me engage with the social responsibility goal. Ultimately, I want to learn about the applications of machine learning in environmental monitoring and spatial analysis, and think this project will provide the perfect chance to do so. 
+
 ## Risk Statement
 We need to be wary of overfitting our models; the size of our datasets are a big factor. We will be training models on small datasets which means that it will be difficult to avoid training a model that has limited application beyond the specific geographic range represented in the Portuguese or Algerian forest fires datasets. We should keep this in mind instead of trying to achieve perfect predictive and classification accuracy, no matter the cost. Additionally, while we have many features relating to weather and climate in our dataset, there are other important features that are not represented in the data: what species of trees are native to the region, what the density of undergrowth is on the forest floor, if the region is grazed by animals, soil pH, and more. It’s possible that these are just as significant as weather and climate in causing forest fires, and the absence of these data could hamper our ability to train accurate models.
 
 ## Ethics Statement
+
 
 ## Tentative Timeline
 
